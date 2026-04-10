@@ -53,7 +53,7 @@
 1. Clone the repository
 
 ```bash id="l9yqur"
-git clone https://github.com/your-username/age-calculator.git
+git clone https://github.com/aman36yt/age-calculator.git
 ```
 
 2. Open the folder
